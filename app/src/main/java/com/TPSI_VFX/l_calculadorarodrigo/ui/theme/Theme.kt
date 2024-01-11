@@ -26,6 +26,8 @@ val LightGray = Color(0xFF818181)
 val Orange = Color(0xFFFF9800)
 
 
+
+
 private val DarkColorScheme = darkColorScheme(
     primary = Purple80,
     secondary = PurpleGrey80,
